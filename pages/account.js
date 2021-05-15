@@ -114,7 +114,7 @@ export default function Account() {
             )}
           </div>
         </Card>
-        <Card
+        <Card>
           title="Your Email"
           description="Please enter the email address you want to use to login."
           footer={<p>We will email you to verify the change.</p>}
